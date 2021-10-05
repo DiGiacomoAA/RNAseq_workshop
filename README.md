@@ -28,6 +28,6 @@ Windows users
 - [Filezilla](https://filezilla-project.org/) (make sure you get the Filezilla Client, not the Windows Server)  
 - [Notepad++](http://notepad-plus-plus.org/)
 
-## WORKSHOP WEBSITE
+## [Workshop Website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/)
 
-https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/
+Full link in case shortcut doesn't work: https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/
