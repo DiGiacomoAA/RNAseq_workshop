@@ -31,3 +31,10 @@ Windows users
 ## [Workshop Website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/)
 
 Full link in case shortcut doesn't work: https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/
+
+Note: during course can use to practice:
+Ssh rc_training12@o2.hms.harvard.edu
+
+HMS12o2compute
+
+If <Access denied to requested reservation> then remove --reservation=HBC1”
